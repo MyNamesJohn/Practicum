@@ -1,0 +1,59 @@
+*{
+	padding:0px;
+	margin:0px;
+	font-family:century gothic;
+	box-sizing:border-box;
+}
+.container{
+	padding:20px;
+	position:relative;
+}
+
+.bg-main{
+	background-color:#072f07;
+	color:yellow;
+
+}
+
+.bg-page{
+	background-color:#072f07;
+	color:yellow;
+}
+
+.bg-second{
+	background-color:#114411;
+	color:white;
+}
+
+a {
+	color:white;
+	text-decoration:none;
+	padding-left:3px;
+	padding-right:3px;
+	transition:0.4s;
+}
+
+a:hover {
+	color:yellow;
+	text-decoration:underline;
+	
+}
+
+.font-small {
+	font-size:13px;
+	
+}
+.font-medium {
+	font-size:20px;
+	
+}
+.font-large {
+	font-size:25px;
+	
+}
+
+.main {
+	background-color:#072f07;
+	color:yellow;
+
+}
