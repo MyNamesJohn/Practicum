@@ -19,7 +19,7 @@ if (isset($_SESSION['bear']))
 <input type="password" name="password" placeholder="Password" autocomplete="off" required/>
 <input type="submit" value="Login"/>
 </form>
-<a href="Sbsignup.php">Don't have a bear yet? Click here!</a>
+<a href="SBcreate.html">Don't have a bear yet? Click here!</a>
 <a href="resetps.php">Forgot your password?</a>
 </body>
 </html>
